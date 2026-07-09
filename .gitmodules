@@ -1,4 +1,4 @@
 [submodule "syncoria/odoosync-client"]
 	path = syncoria/odoosync-client
-	url = git@github.com:syncoria/odoosync-client.git
+	url = git@github-odoosync-client-riz:syncoria/odoosync-client.git
 	branch = 18.0
